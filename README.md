@@ -18,6 +18,6 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-<a href="https://www.buymeacoffee.com/app/lcamargodasilva" target="_blank">
+<a href="https://www.buymeacoffee.com/lcamargodasilva" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Compre-me um café" style="height: 60px !important; width: 217px !important;">
 </a>
