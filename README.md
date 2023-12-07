@@ -18,6 +18,9 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-<a href="https://www.buymeacoffee.com/lcamargodasilva" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Compre-me um café" style="height: 60px !important; width: 217px !important;">
-</a>
+<div align="center">
+  <a href="https://pixmeacoffee.vercel.app/lcamargodasilva" target="_blank">
+    <img src="https://pixmeacoffee.vercel.app/logo-blue.svg" alt="Compre-me um café" style="height: 60px !important; width: 217px !important; border: 5px solid white; border-radius: 5px; margin-top: 10px;">
+  </a>
+  <p><i>Me paga um café?</i></p>
+</div>
