@@ -6,7 +6,8 @@ import Desenvolvedor from "LcamargodaSilva";
 class SobreMim extends Desenvolvedor {
   nome = "Lucas Camargo da Silva";
   idade = "28 anos";
-  trabalho = "Estágio de TI na FozPrev";
+  experiencia = "1 ano de estágio de TI na FozPrev - Foz Previdência";
+  openToWork = True;
   local = "Foz do Iguaçu PR";
 }
 
