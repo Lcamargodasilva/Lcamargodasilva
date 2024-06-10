@@ -16,6 +16,10 @@ class Skills extends Desenvolvedor {
 }
 ```
 
+## Disponível para Trabalhar
+
+Atualmente estou procurando por oportunidades na área de desenvolvimento de software. Se você estiver interessado no meu perfil ou tiver alguma oportunidade para mim, não hesite em entrar em contato através do meu e-mail [contatolcamargo@gmail.com](mailto:contatolcamargo@gmail.com).
+
 <div align="center">
   <a href="https://pixmeacoffee.vercel.app/lcamargodasilva" target="_blank">
     <img src="https://pixmeacoffee.vercel.app/logo-blue.svg" alt="Compre-me um café" style="height: 60px !important; width: 217px !important; border: 5px solid white; border-radius: 5px; margin-top: 10px;">
