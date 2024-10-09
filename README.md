@@ -6,14 +6,14 @@ import Desenvolvedor from "LcamargodaSilva";
 class SobreMim extends Desenvolvedor {
   nome = "Lucas Camargo da Silva";
   idade = "28 anos";
-  experiencia = "1 ano de estágio de TI na FozPrev - Foz Previdência";
   local = "Foz do Iguaçu PR";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["HTML, CSS, JAVASCRIPT, JAVA"];
+  linguagens = ["HTML, CSS, JAVASCRIPT, TYPESCRIPT, JAVA"];
   frameworks = ["Angular, Bootstrap, Spring"];
 }
+
 ```
 
 ## Disponível para Trabalhar
