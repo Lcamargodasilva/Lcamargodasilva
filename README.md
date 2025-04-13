@@ -11,11 +11,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["HTML, CSS, JAVASCRIPT, TYPESCRIPT, JAVA"];
-  frameworks = ["Angular, Bootstrap, Spring"];
+  frameworks = ["Angular, NestjJS, NextJS, Bootstrap, Spring"];
 }
 
 ```
-
-## Disponível para Trabalhar
-
-Atualmente estou procurando por oportunidades na área de desenvolvimento de software. Se você estiver interessado no meu perfil ou tiver alguma oportunidade para mim, não hesite em entrar em contato através do meu e-mail [contatolcamargo@gmail.com](mailto:contatolcamargo@gmail.com).
