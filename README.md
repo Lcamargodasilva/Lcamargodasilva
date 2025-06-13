@@ -5,7 +5,7 @@ import Desenvolvedor from "LcamargodaSilva";
 
 class SobreMim extends Desenvolvedor {
   nome = "Lucas Camargo da Silva";
-  idade = "28 anos";
+  idade = "29 anos";
   local = "Foz do Iguaçu PR";
 }
 
